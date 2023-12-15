@@ -1,0 +1,10 @@
+[package]
+name = "hamelin_counter"
+version = "0.1.0"
+edition = "2021"
+description = "A ratatui demo counter app using redux principles"
+
+[dependencies]
+color-eyre = "0.6.2"
+crossterm = "0.27.0"
+ratatui = "0.24.0"
